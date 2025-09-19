@@ -1,0 +1,7 @@
+debug/
+target/
+
+.direnv/
+result
+media/
+__pycache__

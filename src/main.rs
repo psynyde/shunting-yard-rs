@@ -179,7 +179,7 @@ fn main() {
 
     if args.is_empty() {
         eprintln!("Please provide an expression as a command-line argument.");
-        eprintln!("Usage: cargo run -- \"3 + 4 * 2 / ( 1 - 5 ) ^ 2\"");
+        eprintln!("Usage: shunting-yard-rs \"3 + 4 * 2 / ( 1 - 5 ) ^ 2\"");
         eprintln!("Note: On some shells, you may need to escape characters like '*' or '()'.");
         return;
     }

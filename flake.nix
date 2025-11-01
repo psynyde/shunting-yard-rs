@@ -29,6 +29,9 @@
           name = project;
           LSP_SERVER = "rust_analyzer";
           packages = with pkgs; [
+            lldb
+            rustc
+
             cargo
             rustfmt
             rustPackages.clippy

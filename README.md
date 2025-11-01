@@ -14,7 +14,7 @@ or
 cargo run -- "3 + 4 * 2 / ( 1 - 5 ) ^ 2"
 ```
 
-to directly run
+to run directly.
 
 ## Generating visualization:
 

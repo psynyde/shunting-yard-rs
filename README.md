@@ -21,3 +21,6 @@ to run directly.
 ```sh
 manim -pql shunting_yard.py ShuntingYardVisualization
 ```
+
+## Preview:
+https://github.com/user-attachments/assets/03a95521-1bdc-46ef-9dcd-3259df497381
